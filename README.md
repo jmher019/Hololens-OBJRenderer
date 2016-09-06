@@ -9,4 +9,5 @@ Currently, the project is unable to save/load the app state. What this means for
  3. In the window that is opened, under **System**,click **File Explorer**
  4. Choose **LocalAppData**. Choose **Hololens-OBJRenderer** and then click on **LocalState**.
  5. Upload the **bunny.obj** file located in **..\Hololens-OBJRenderer\Assets**.
- 6. Wait a minute and enjoy a rotating bunny
+ 6. Return to the Visual Studio project and press **F5**
+ 7. Wait a minute and enjoy a rotating bunny
